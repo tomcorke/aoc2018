@@ -1,0 +1,26 @@
+{
+  "name": "aoc2018",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tslint": "^5.11.0",
+    "typescript": "^3.2.1"
+  },
+  "scripts": {
+    "01": "node ./dist/01.js",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomcorke/aoc2018.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomcorke/aoc2018/issues"
+  },
+  "homepage": "https://github.com/tomcorke/aoc2018#readme"
+}
